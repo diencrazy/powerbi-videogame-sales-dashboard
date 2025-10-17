@@ -35,12 +35,12 @@ Performed in Power Query and Python:
 ## 🖥️ Dashboard
 
 <p align="center">
-  <img src="images/Home.png" alt="Dashboard" width="350"/>
-<img src="images/Trends.png" alt="Dashboard" width="350"/>
+  <img src="images/Home.png" alt="Dashboard" width="400"/>
+<img src="images/Trends.png" alt="Dashboard" width="400"/>
 </p>
 <p align="center">
-  <img src="images/Genre.png" alt="Dashboard" width="350"/>
-<img src="images/Strategy.png" alt="Dashboard" width="350"/>
+  <img src="images/Genre.png" alt="Dashboard" width="400"/>
+<img src="images/Strategy.png" alt="Dashboard" width="400"/>
 </p>
 ---
 
