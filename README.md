@@ -33,12 +33,15 @@ Performed in Power Query and Python:
 
 ---
 ## 🖥️ Dashboard
-![Dashboard Preview](images/Home.png)
-![Dashboard Preview](images/Trends.png)
-![Dashboard Preview](images/Genre.png)
-![Dashboard Preview](images/Stratery.png)
 
-
+<p align="center">
+  <img src="images/Home.png" alt="Dashboard" width="500"/>
+<img src="images/Trends.png" alt="Dashboard" width="500"/>
+</p>
+<p align="center">
+  <img src="images/Genre.png" alt="Dashboard" width="500"/>
+<img src="images/Strategy.png" alt="Dashboard" width="500"/>
+</p>
 ---
 
 ## 🧠 Key Insights
